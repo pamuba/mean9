@@ -19,6 +19,7 @@
     "@angular/platform-browser": "~9.1.13",
     "@angular/platform-browser-dynamic": "~9.1.13",
     "@angular/router": "~9.1.13",
+    "bootstrap": "^4.6.0",
     "express": "^4.17.1",
     "mongoose": "^5.13.5",
     "nodemon": "^2.0.12",
